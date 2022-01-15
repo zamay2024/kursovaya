@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\XILINX\Kursovaya_MK\obj\Debug\Kursovaya_MK.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\XILINX\Kursovaya_MK\obj\Debug\Kursovaya_MK.Form1.resources
+C:\Users\Lenovo\Desktop\XILINX\Kursovaya_MK\obj\Debug\Kursovaya_MK.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\XILINX\Kursovaya_MK\obj\Debug\Kursovaya_MK.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\XILINX\Kursovaya_MK\obj\Debug\Kursovaya_MK.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\XILINX\Kursovaya_MK\bin\Debug\Kursovaya_MK.exe.config
+C:\Users\Lenovo\Desktop\XILINX\Kursovaya_MK\bin\Debug\Kursovaya_MK.exe
+C:\Users\Lenovo\Desktop\XILINX\Kursovaya_MK\bin\Debug\Kursovaya_MK.pdb
+C:\Users\Lenovo\Desktop\XILINX\Kursovaya_MK\obj\Debug\Kursovaya_MK.exe
+C:\Users\Lenovo\Desktop\XILINX\Kursovaya_MK\obj\Debug\Kursovaya_MK.pdb
